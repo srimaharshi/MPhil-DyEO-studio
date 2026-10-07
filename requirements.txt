@@ -5,3 +5,4 @@ python-docx
 reportlab
 youtube-transcript-api
 gTTS
+supabase
