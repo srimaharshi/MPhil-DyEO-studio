@@ -3,3 +3,5 @@ google-generativeai
 pypdf
 python-docx
 reportlab
+youtube-transcript-api
+gTTS
